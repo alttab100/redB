@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Enter values in all the fields and clicked on search button successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33327" started-at="2017-08-20T13:36:25Z" finished-at="2017-08-20T13:36:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33327" started-at="2017-08-20T13:36:25Z" finished-at="2017-08-20T13:36:58Z">
+      <class name="TestCases.Booking_TC">
+        <test-method status="PASS" signature="beforeexecution(java.lang.String)[pri:0, instance:TestCases.Booking_TC@1c62251]" name="beforeexecution" is-config="true" duration-ms="4668" started-at="2017-08-20T19:06:25Z" finished-at="2017-08-20T19:06:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeexecution -->
+        <test-method status="PASS" signature="testmethod()[pri:0, instance:TestCases.Booking_TC@1c62251]" name="testmethod" duration-ms="28579" started-at="2017-08-20T19:06:30Z" finished-at="2017-08-20T19:06:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Enter values in all the fields and clicked on search button successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+        <test-method status="PASS" signature="afterexecution()[pri:0, instance:TestCases.Booking_TC@1c62251]" name="afterexecution" is-config="true" duration-ms="0" started-at="2017-08-20T19:06:58Z" finished-at="2017-08-20T19:06:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterexecution -->
+      </class> <!-- TestCases.Booking_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
